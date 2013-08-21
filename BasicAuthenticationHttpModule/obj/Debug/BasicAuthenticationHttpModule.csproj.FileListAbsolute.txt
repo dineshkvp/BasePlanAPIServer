@@ -1,0 +1,5 @@
+D:\BasePlan\Project\BasePlan.API.Server\BasicAuthenticationHttpModule\bin\Debug\BasicAuthenticationHttpModule.dll
+D:\BasePlan\Project\BasePlan.API.Server\BasicAuthenticationHttpModule\bin\Debug\BasicAuthenticationHttpModule.pdb
+D:\BasePlan\Project\BasePlan.API.Server\BasicAuthenticationHttpModule\obj\Debug\BasicAuthenticationHttpModule.csprojResolveAssemblyReference.cache
+D:\BasePlan\Project\BasePlan.API.Server\BasicAuthenticationHttpModule\obj\Debug\BasicAuthenticationHttpModule.dll
+D:\BasePlan\Project\BasePlan.API.Server\BasicAuthenticationHttpModule\obj\Debug\BasicAuthenticationHttpModule.pdb
